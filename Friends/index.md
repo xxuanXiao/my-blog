@@ -16,7 +16,10 @@ title: 友链
   <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">淳の神奇小網站</p>
 </a>
 
-
+<a href="https://www.yuzen.dev/zh-Hant" target="_blank" style="display:block;border:1px solid var(--vp-c-divider);border-radius:8px;padding:1rem;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
+  <strong>Yuzen</strong>
+  <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">我們看見的不是事物本身，而是我們自己的樣子</p>
+</a>
 </div>
 
 </div>
