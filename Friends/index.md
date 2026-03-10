@@ -12,7 +12,7 @@ title: 友链
 <!-- 友链卡片示例，按需修改 -->
 
 <a href="https://chuen666666.github.io/" target="_blank" style="display:block;border:1px solid var(--vp-c-divider);border-radius:8px;padding:1rem;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
-  <strong>淳の網站</strong>
+  <strong>淳</strong>
   <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">淳の神奇小網站</p>
 </a>
 
