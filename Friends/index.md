@@ -13,7 +13,7 @@ title: 友链
 
 <div class="friend-links">
 
-<p style="text-align:center;font-size:1.25rem;color:var(--vp-c-text-2);letter-spacing:.15em;margin-bottom:2rem">海内存知己，天涯若比邻</p>
+<p style="text-align:center;font-size:2rem;color:var(--vp-c-text-2);letter-spacing:.15em;margin-bottom:2rem">海内存知己，天涯若比邻</p>
 
 <div class="friend-links-grid">
 
