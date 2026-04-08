@@ -18,6 +18,7 @@ export default defineConfig({
         {
           text: '文章',
           items: [
+            { text: '跳槽Linux学习内容', link: '/Articles/learn_linux' },
             { text: 'Hello，World', link: '/Articles/Hello-World' },
             { text: '关于我', link: '/Articles/about-me' }
           ]

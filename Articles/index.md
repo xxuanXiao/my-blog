@@ -4,22 +4,19 @@ title: 文章
 
 # 文章
 
-<div style="display:flex;flex-direction:column;gap:.75rem;margin-top:1.5rem">
+<div class="article-list">
+  <a class="article-card" href="/Articles/learn_linux">
+    <strong class="article-card__title">跳槽Linux学习内容</strong>
+    <p class="article-card__description">跳槽Linux学习内容</p>
+  </a>
 
-<a href="/Articles/learn_linux" style="display:block;border:1px solid var(--vp-c-divider);border-radius:8px;padding:1rem 1.25rem;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
-  <strong>Hello，World</strong>
-  <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">跳槽Linux学习内容</p>
-</a>
+  <a class="article-card" href="/Articles/Hello-World">
+    <strong class="article-card__title">Hello，World</strong>
+    <p class="article-card__description">第一篇文章</p>
+  </a>
 
-<a href="/Articles/Hello-World" style="display:block;border:1px solid var(--vp-c-divider);border-radius:8px;padding:1rem 1.25rem;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
-  <strong>Hello，World</strong>
-  <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">第一篇文章</p>
-</a>
-
-<a href="/Articles/about-me" style="display:block;border:1px solid var(--vp-c-divider);border-radius:8px;padding:1rem 1.25rem;text-decoration:none;color:inherit;transition:box-shadow .2s" onmouseover="this.style.boxShadow='0 4px 12px rgba(0,0,0,.1)'" onmouseout="this.style.boxShadow='none'">
-  <strong>关于我</strong>
-  <p style="margin:.4rem 0 0;font-size:.875rem;color:var(--vp-c-text-2)">了解我吧</p>
-</a>
-
-
+  <a class="article-card" href="/Articles/about-me">
+    <strong class="article-card__title">关于我</strong>
+    <p class="article-card__description">了解我吧</p>
+  </a>
 </div>
