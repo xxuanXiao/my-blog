@@ -29,7 +29,7 @@ title: 友链
   <p>我們看見的不是事物本身，而是我們自己的樣子</p>
 </a>
 
-<a href="https://yogurt0617.github.io/aboutMeee/" target="_blank" class="friend-card">
+<a href="https://youcheng0617.github.io/aboutMeee/" target="_blank" class="friend-card">
   <strong>ヨーグルト</strong>
   <p>做個自由的瘋子人才不會無趣!!</p>
 </a>
