@@ -19,7 +19,7 @@ export default defineConfig({
           text: 'C学习合集',
           collapsed: false,
           items: [
-            { text: 'C语言学习', link: '/Articles/C_00.md' }
+            { text: 'C语言知识点目录', link: '/Articles/C_00.md' }
           ]
         },
         {
