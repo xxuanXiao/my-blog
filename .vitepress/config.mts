@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' , activeMatch: '^/$' },
-      { text: '文章', link: '/Articles/learn_linux', activeMatch: '^/Articles/' },
+      { text: '文章', link: '/Articles/C_00.md', activeMatch: '^/Articles/' },
       { text: '友链', link: '/Friends' , activeMatch: '^/Friends/' },
     ],
 
