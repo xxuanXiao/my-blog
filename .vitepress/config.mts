@@ -16,7 +16,7 @@ export default defineConfig({
       '/Friends/': [],
       '/Articles/': [
         {
-          text: '学习合集',
+          text: 'C学习合集',
           collapsed: false,
           items: [
             { text: 'C语言学习', link: '/Articles/C_00.md' }
