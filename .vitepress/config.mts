@@ -19,7 +19,7 @@ export default defineConfig({
           text: '学习合集',
           collapsed: false,
           items: [
-            { text: '跳槽Linux学习内容', link: '/Articles/learn_linux' }
+            { text: 'C语言学习', link: '/Articles/C_00.md' }
           ]
         },
         {

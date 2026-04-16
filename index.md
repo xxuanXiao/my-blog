@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /Articles/learn_linux
+      link: /Articles/C_00.md
     - theme: alt
       text: 关于我
       link: /Articles/about-me
