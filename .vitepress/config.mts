@@ -26,7 +26,9 @@ export default defineConfig({
           text: '随笔合集',
           collapsed: false,
           items: [
-            { text: 'Hello,World', link: '/Articles/Hello-World' }
+            { text: 'Hello,World', link: '/Articles/Hello-World.md' }
+            ,{ text: '27.2入学马莫应用工程 Timeline', link: '/Articles/misc_01.md' }
+            ,{ text: 'PTE最新考试内容', link: '/Articles/misc_02.md' }
           ]
         },
         {
