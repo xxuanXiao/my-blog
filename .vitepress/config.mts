@@ -23,6 +23,13 @@ export default defineConfig({
           ]
         },
         {
+          text: 'STM32学习合集',
+          collapsed: false,
+          items: [
+            { text: 'STM32知识点目录', link: '/Articles/STM32_00.md' }
+          ]
+        },
+        {
           text: '随笔合集',
           collapsed: false,
           items: [
